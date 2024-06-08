@@ -1,0 +1,7 @@
+- 👋 Hi, I'm @bryma1
+- 👀 I'm interested in cloud computing, DevOps, and infrastructure as code.
+- 🌱 I'm currently learning AWS services and Cloud Development Kit (CDK).
+- 💞️ I'm looking to collaborate on open-source cloud projects or DevOps tools.
+- 📫 How to reach me: emric.bryma@outlook.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love tinkering with Raspberry Pi projects in my free time.
